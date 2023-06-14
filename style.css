@@ -1,0 +1,85 @@
+.container {
+  margin-left: 66.5px;
+  margin-right: 65.5px;
+}
+
+.parent-h {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-parent {
+  display: flex;
+  gap: 110px;
+}
+
+.nav-item {
+  list-style: none;
+}
+.h-cta-link {
+  font-family: "Yantramanav";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 23px;
+
+  color: #000000;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.body-container {
+  display: flex;
+  align-items: center;
+}
+
+.body-text {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+}
+
+.body-heading {
+  font-family: "Yantramanav";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+
+  color: #000000;
+}
+
+.body-sub-heading {
+  font-family: "Telex";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  color: #9f9f9f;
+}
+.body-cta {
+  font-family: "Yantramanav";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 42px;
+  border: 1px solid black;
+  border-radius: 37px;
+  padding: 16px;
+  display: flex;
+  gap: 35px;
+  align-items: center;
+}
+
+.a-body {
+  text-decoration: border;
+  color: black;
+}
+
+.body-cta-container {
+  padding-top: 40px;
+  width: 258px;
+  height: 87px;
+}
